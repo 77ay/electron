@@ -1,0 +1,49 @@
+body{
+    background-color: #E6FFFE;
+}
+.entBtn{
+    vertical-align: auto;
+    color: #FFF;
+    background-color: #4A716F;
+    font-size: 20px;
+    border-radius: 15%;
+    font-family: 'Lexend Tera', sans-serif;
+}
+
+.startBtn{
+    vertical-align: auto;
+    color: #FFF;
+    background-color: #4A716F;
+    font-size: 24px;
+    border-radius: 15%;
+    font-family: 'Lexend Tera', sans-serif;
+}
+
+h1{
+    font-family: 'Lexend Tera', sans-serif;
+    text-align: center
+}
+
+.input{
+    text-align: center;
+    font-family: 'Lexend Tera', sans-serif;
+}
+
+.inputBox{
+    border-color: aqua;
+    border-radius: 10%;
+    font-size: 20px;
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.home{
+    font-size: 24px;
+}
